@@ -13,10 +13,10 @@ The program uses multiple functions and various Python libraries including Panda
 - The main() function is defined to loop through the get_filters(), load_data(), time_stats(), station_stats(), trip_duration_stats(), and user_stats() functions to analyze the bikeshare data for the specified city, month, and day of the week. It then prompts the user to restart the program or not. If the user inputs 'yes', the program starts over. If the user inputs 'no', the program exits.
 
 ## Files used
-chicago.csv
-new_york_city.csv
-washington.csv
-bikeshare3.py
+chicago.csv <Br>
+new_york_city.csv <Br>
+washington.csv <Br>
+bikeshare3.py <Br>
 
 
 ## Date created
