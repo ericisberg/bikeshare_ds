@@ -1,7 +1,7 @@
 # Bike-Share Data Science Project
 
 ## Description
-This program is an interactive console application designed to provide statistical analysis on the bikeshare data for three cities - Chicago, New York City, and Washington. It interacts with the user to filter the data by city, month, and day of the week. The program uses Pandas DataFrame to load and filter data based on user inputs. The program also provides statistics on the most frequent times of travel, the most popular stations and trips, and the total and average trip duration.
+This program is an interactive console application designed to provide descriptive statistical analysis on the bikeshare data for three cities - Chicago, New York City, and Washington. It interacts with the user to filter the data by city, month, and day of the week. The program uses Pandas DataFrame to load and filter data based on user inputs. The program also provides statistics on the most frequent times of travel, the most popular stations and trips, and the total and average trip duration.
 
 ## How it works!
 The program uses multiple functions and various Python libraries including Pandas, Numpy, and Time to manipulate and analyze the bikeshare data. Overall, the program is a simple but effective tool to extract insights from the bikeshare data of the three cities.
